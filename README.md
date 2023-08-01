@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, I'm Alyssa Wiser
+
+#### Full Stack Web Developer
+
+I'm a dedicated and passionate developer
 
 <!--
 **wiserdeveloper/wiserdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
