@@ -4,7 +4,7 @@
 
 <ul>
   <li>🌎 I'm based in Indianapolis, Indiana</li>
-  <li>🌱 I'm currently learning Next.JS and Figma</li>
+  <li>🌱 I'm currently learning C#</li>
   <li>💻 Check out my portfolio! <a href="https://alyssa-wiser.netlify.app/">Alyssa's Portfolio</a></li>
 </ul>
 
