@@ -1,6 +1,6 @@
 <h2>Hi, I'm Alyssa Wiser! <img src="https://media1.giphy.com/media/31HQ3Gu5ngkjmrHK4D/giphy.gif?cid=ecf05e47oolo7hoegx8xi3trs374wdqb90a8vw7yts7l0r0g&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="40"></h2>
 
-<h3>Full Stack Web Developer</h3>
+<h3>Software Engineer</h3>
 
 <ul>
   <li>🌎 I'm based in Indianapolis, Indiana</li>
